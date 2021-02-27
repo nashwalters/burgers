@@ -1,0 +1,53 @@
+/* General Styles */
+body {
+    background-image: url(../img/chalkboard.jpg);
+}
+.burger {
+    height: 150px;
+    width: 150px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+h1 {
+    text-align: center;
+    color: white;
+    margin-bottom: 20px;
+}
+input {
+    display: block;
+    margin-bottom: 10px;
+    margin: auto;
+}
+#submit-btn {
+    display: block;
+    margin: auto;
+    margin-top: 10px;
+    color: black;
+    background-color: lightgray;
+    border-radius: 10px;
+    
+}
+.submit-text {
+   color: white;
+   text-align: center;
+}
+li {
+    list-style-type: none;
+    color: white;
+}
+h3 {
+    color: white;
+    text-align: center;
+}
+.btn {
+    color: black;
+    background-color: lightgray;
+    width: auto;
+    height: auto;
+    margin-bottom: 20px;
+    margin-left: 150px;
+    display: block;
+}
+
+
