@@ -1,4 +1,11 @@
 <h1 align="center">Eat-Da-Burger!!</h1>
+<p align ="center">
+ <a href=""><img alt="NPM version" src="https://img.shields.io/badge/npm-v6.14.10-blue" target="_blank" /></a>
+ <a href=""><img alt="Dependencies" src="https://img.shields.io/badge/dependencies%20-up%20to%20date-orange" target="_blank" /></a>
+ <a href="https://github.com/nashwalters"><img alt="Ask me anything" src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg" target="_blank" /></a>
+ <a href=""><img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" target="_blank" /></a>
+ </p>
+ 
  
 This is a burger logger created using MySQL, Node, Express, Handlebars and a homemade ORM. It follow the MVC design pattern, Node and MySQL is used to query and route data in the app, and Handlebars used to generate the HTML.
 
@@ -16,7 +23,7 @@ This is a burger logger created using MySQL, Node, Express, Handlebars and a hom
 * [License](#license)
 
 ## Description
-Eat-Da-Burger! is a restaurant app that lets users input the names of burgers they'd like to eat. Whenever a user submits a burger's name, the app will display the burger on the left side of the page -- waiting to be devoured. Each burger in the waiting area also has a 'Devour it!' button. When the user clicks it, the burger will move to the right side of the page.The app will store every burger in a database, whether devoured or not. The app is deployed with Heroku and [jawsDB](https://www.jawsdb.com/) is also use as a database.
+Eat-Da-Burger! is a restaurant app that lets users input the names of burgers they'd like to eat. Whenever a user submits a burger's name, the app will display the burger on the left side of the page -- waiting to be devoured. Each burger in the waiting area also has a 'Devour it!' button. When the user clicks it, the burger will move to the right side of the page.The app will store every burger in a database, whether devoured or not. The app is deployed with Heroku and [jawsDB](https://www.jawsdb.com/) is also used as a database.
 
 ## Installation
 Node.js is required ([See download information here](https://nodejs.org/en/download/)). 
