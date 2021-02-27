@@ -29,7 +29,7 @@ Node.js is required ([See download information here](https://nodejs.org/en/downl
 ## Deployment 
 [Heroku](https://www.heroku.com/what) allows developers to deploy and manage their apps.
 
-[Click here to deploy app]()
+[Click here to deploy app](https://sheltered-springs-21872.herokuapp.com/)
  
 ## Usage
 The user is able to enter the name of the burger they would like to eat. Once the burger name is submitted, the name of the burger and a 'Devour it' button will appear on the left side of the app. Once the Devour button is clicked, the burger moves to the right side of the app. All burgers are storedin the database.
